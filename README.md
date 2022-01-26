@@ -15,3 +15,8 @@ The changes made to new files are the features addition (Many technical analysis
 Out of 5 new files 1 is regression model of the project which predicts the stock price for the next week rather than immidiate day because noise in the market may ruin the performance of the model hence prediction of next can be made more accurately.
 
 The other 4 new files use classification model for the same project but the bullishness or bearishness is divided in 5/4/3/2 parts in various models.
+
+When there are 5  class (Very bullish / very bearish / bullish / bearish and neutral) the overall accuracy is 70%
+When there are 4  class (Very bullish / very bearish / bullish / bearish ) the overall accuracy is 70%
+When there are 3  class (Very bullish / very bearish / bullish / bearish and neutral) the overall accuracy is 76%
+When there are 2  class (bullish / bearish ) the overall accuracy is 85%
