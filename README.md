@@ -1,7 +1,7 @@
 # stock_market
 In this project I have predicted next day closing price of a stock using previous 6 days data such as open/high/low/close/volume.
 
-The stock used in this project is deepak nitrite (NSE). Previous 5 year data is used to train the model.  
+The stock used in this project is deepak nitrite (NSE). Previous 11 year data is used to train the model.  
 
 The data is downloaded from yahoo finance and the data only contains open/high/low/close/volume data.
 
