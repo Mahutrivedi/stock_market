@@ -7,7 +7,7 @@ The data is downloaded from yahoo finance and the data only contains open/high/l
 
 The remaining columns are created using these pre-availble columns. 
 
-Artificially created columns include previous 6 day open/high/low/close, %change in price of previous 6 days and some technical tools such as relative strength index, moving average etc. 
+Artificially created columns include technical tools such as relative strength index, moving average etc. 
 
 
 In the latest update of the project 5 more files are added on git. The changes made to new files are the features addition (Many technical analysis points are added in newer update.)
