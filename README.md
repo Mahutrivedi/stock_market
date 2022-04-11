@@ -1,5 +1,5 @@
 # stock_market
-In this project I have predicted next week closing price of a stock using previous 6 days data such as open/high/low/close/volume.
+In this project I have predicted next week closing price of a stock using stock open/high/low/close/volume.
 
 The stock used in this project is deepak nitrite (NSE). Previous 11 year data is used to train the model.  
 
