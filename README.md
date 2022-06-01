@@ -10,6 +10,6 @@ The remaining columns are created using these pre-availble columns.
 Artificially created columns include technical tools such as relative strength index, moving average etc. 
 
 The project uses linear regression, ridge regression, lasso regression and random forest models.  Out of all random forest performs good. 
-Min error in prediction: 4 %
+Min error in prediction: 4%,
 Max error in prediction: 12%
 
